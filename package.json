@@ -61,6 +61,7 @@
     "@web/dev-server-legacy": "^0.1.7",
     "@web/test-runner": "^0.12.15",
     "@web/test-runner-browserstack": "^0.4.2",
+    "@web/test-runner-commands": "^0.4.5",
     "@web/test-runner-playwright": "^0.8.4",
     "babel-polyfill": "^6.26.0",
     "bundlesize": "^1.0.0-beta.2",

@@ -44,4 +44,5 @@ npm i --save @lion/combobox
 
 ```js
 import '@lion/combobox/define';
+import '@lion/listbox/lion-option.js';
 ```

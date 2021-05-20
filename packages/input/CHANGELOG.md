@@ -1,5 +1,16 @@
 # Change Log
 
+## 0.15.0
+
+### Minor Changes
+
+- 72067c0d: **BREAKING** Upgrade to lit version 2
+
+### Patch Changes
+
+- Updated dependencies [72067c0d]
+  - @lion/form-core@0.14.0
+
 ## 0.14.1
 
 ### Patch Changes

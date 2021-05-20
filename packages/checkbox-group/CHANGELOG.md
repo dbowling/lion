@@ -1,5 +1,18 @@
 # Change Log
 
+## 0.18.0
+
+### Minor Changes
+
+- 72067c0d: **BREAKING** Upgrade to lit version 2
+
+### Patch Changes
+
+- Updated dependencies [72067c0d]
+  - @lion/core@0.18.0
+  - @lion/form-core@0.14.0
+  - @lion/input@0.15.0
+
 ## 0.17.1
 
 ### Patch Changes

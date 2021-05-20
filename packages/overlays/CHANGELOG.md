@@ -1,5 +1,16 @@
 # Change Log
 
+## 0.28.0
+
+### Minor Changes
+
+- 72067c0d: **BREAKING** Upgrade to lit version 2
+
+### Patch Changes
+
+- Updated dependencies [72067c0d]
+  - @lion/core@0.18.0
+
 ## 0.27.0
 
 ### Minor Changes

@@ -1,5 +1,39 @@
 # Change Log
 
+## 0.8.0
+
+### Minor Changes
+
+- 72067c0d: **BREAKING** Upgrade to lit version 2
+
+### Patch Changes
+
+- Updated dependencies [72067c0d]
+- Updated dependencies [6cdefd88]
+  - @lion/button@0.13.0
+  - @lion/checkbox-group@0.18.0
+  - @lion/combobox@0.7.0
+  - @lion/core@0.18.0
+  - @lion/form@0.12.0
+  - @lion/form-core@0.14.0
+  - @lion/input@0.15.0
+  - @lion/input-amount@0.14.0
+  - @lion/input-datepicker@0.23.0
+  - @lion/input-iban@0.16.0
+  - @lion/input-stepper@0.6.0
+  - @lion/listbox@0.10.0
+  - @lion/localize@0.20.0
+  - @lion/radio-group@0.18.0
+  - @lion/select@0.14.0
+  - @lion/select-rich@0.26.0
+  - @lion/switch@0.17.0
+  - @lion/textarea@0.13.0
+  - @lion/validate-messages@0.7.0
+  - @lion/fieldset@0.19.2
+  - @lion/input-date@0.12.2
+  - @lion/input-email@0.13.2
+  - @lion/input-range@0.10.1
+
 ## 0.7.1
 
 ### Patch Changes

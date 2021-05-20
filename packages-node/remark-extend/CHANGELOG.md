@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.5.0
+
+### Minor Changes
+
+- 72067c0d: **BREAKING** Upgrade to lit version 2
+
 ## 0.4.2
 
 ### Patch Changes

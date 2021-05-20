@@ -1,5 +1,15 @@
 # Change Log
 
+## 0.12.0
+
+### Minor Changes
+
+- 72067c0d: **BREAKING** Upgrade to lit version 2
+
+### Patch Changes
+
+- @lion/fieldset@0.19.2
+
 ## 0.11.1
 
 ### Patch Changes

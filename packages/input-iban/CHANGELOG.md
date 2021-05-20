@@ -1,5 +1,20 @@
 # Change Log
 
+## 0.16.0
+
+### Minor Changes
+
+- 72067c0d: **BREAKING** Upgrade to lit version 2
+
+### Patch Changes
+
+- Updated dependencies [72067c0d]
+  - @lion/core@0.18.0
+  - @lion/form-core@0.14.0
+  - @lion/input@0.15.0
+  - @lion/localize@0.20.0
+  - @lion/validate-messages@0.7.0
+
 ## 0.15.1
 
 ### Patch Changes

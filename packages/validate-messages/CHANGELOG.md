@@ -1,5 +1,17 @@
 # Change Log
 
+## 0.7.0
+
+### Minor Changes
+
+- 72067c0d: **BREAKING** Upgrade to lit version 2
+
+### Patch Changes
+
+- Updated dependencies [72067c0d]
+  - @lion/form-core@0.14.0
+  - @lion/localize@0.20.0
+
 ## 0.6.1
 
 ### Patch Changes

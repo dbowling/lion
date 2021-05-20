@@ -1,5 +1,20 @@
 # Change Log
 
+## 0.26.0
+
+### Minor Changes
+
+- 72067c0d: **BREAKING** Upgrade to lit version 2
+
+### Patch Changes
+
+- Updated dependencies [72067c0d]
+  - @lion/button@0.13.0
+  - @lion/core@0.18.0
+  - @lion/form-core@0.14.0
+  - @lion/listbox@0.10.0
+  - @lion/overlays@0.28.0
+
 ## 0.25.1
 
 ### Patch Changes

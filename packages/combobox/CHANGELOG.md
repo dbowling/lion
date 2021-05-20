@@ -1,5 +1,20 @@
 # Change Log
 
+## 0.7.0
+
+### Minor Changes
+
+- 72067c0d: **BREAKING** Upgrade to lit version 2
+- 6cdefd88: Add a new \_getTextboxValueFromOption method on LionCombobox, to be able to overide how the modelValue is displayed in the textbox
+
+### Patch Changes
+
+- Updated dependencies [72067c0d]
+  - @lion/core@0.18.0
+  - @lion/form-core@0.14.0
+  - @lion/listbox@0.10.0
+  - @lion/overlays@0.28.0
+
 ## 0.6.1
 
 ### Patch Changes
